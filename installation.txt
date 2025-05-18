@@ -1,0 +1,1 @@
+npm i dotenv mineflayer mineflayer-pathfinder mineflayer-tool mineflayer-pvp mineflayer-collectblock @nxg-org/mineflayer-custom-pvp mineflayer-armor-manager mineflayer-plasmovoice mineflayer-movement mineflayer-elytrafly axios readline
